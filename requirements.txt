@@ -3,6 +3,8 @@ pandas
 matplotlib
 seaborn
 nltk
+tensorflow
+keras
 regex
 scikit-learn
 from-root
