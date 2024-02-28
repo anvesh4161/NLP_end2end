@@ -25,6 +25,10 @@ conda activate hate
 pip install -r requirements.txt
 ```
 
+```bash
+python app.py
+```
+
 
 # Gcloud cli
 https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
@@ -33,3 +37,13 @@ https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
 gcloud init
 ```
 
+
+## Deployment
+
+1. Setting up circleCI
+2. Switch on self hosted runner
+3. Create Project
+4. Configure EC2
+5. config.yml
+6. env variables
+7. 
